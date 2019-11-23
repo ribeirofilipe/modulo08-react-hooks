@@ -1,0 +1,8 @@
+{
+  "name": "modulo08-react-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ribeirofilipe/modulo08-react-hooks.git",
+  "author": "Filipe de Oliveira Ribeiro <foribeiro@viceri.com.br>",
+  "license": "MIT"
+}
